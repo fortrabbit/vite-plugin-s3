@@ -11,13 +11,13 @@
   "files": [
     "src"
   ],
-  "repository": "https://github.com/sportsrecruits/vite-plugin-s3",
+  "repository": "https://github.com/fortrabbit/vite-plugin-s3",
   "author": "James Burrow (james@sportsrecruits.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sportsrecruits/vite-plugin-s3/issues"
+    "url": "https://github.com/fortrabbit/vite-plugin-s3/issues"
   },
-  "homepage": "https://github.com/sportsrecruits/vite-plugin-s3",
+  "homepage": "https://github.com/fortrabbit/vite-plugin-s3",
   "dependencies": {
     "progress": "^2.0.3",
     "s3-node": "^0.0.1"
